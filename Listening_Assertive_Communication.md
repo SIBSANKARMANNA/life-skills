@@ -11,176 +11,110 @@ Together, these skills improve teamwork, relationships, conflict resolution, and
 
 ---
 
-# Why These Skills Matter
 
-Strong listening and communication skills help you:
+## Question 1
 
-- Build trust and healthy relationships
-- Reduce misunderstandings
-- Improve teamwork and collaboration
-- Resolve conflicts professionally
-- Increase confidence during conversations
-- Become a better leader and team member
+### What are the steps/strategies to do Active Listening?
 
----
+Based on the video, the following are the key strategies for practicing active listening:
 
-# Listening
+1. **Listen carefully and understand the message** instead of just hearing the words.
+2. **Avoid distractions**, such as thinking about your own response while the other person is speaking.
+3. **Focus completely on the speaker and the topic** being discussed.
+4. **Do not interrupt** the speaker. Let them finish before responding.
+5. **Use door openers**, such as "I understand," "Go on," or "Tell me more," to encourage the speaker to continue.
+6. **Show that you are listening through positive body language**, such as maintaining eye contact, nodding, and having an attentive posture.
+7. **Take notes during important conversations** to remember key points and avoid missing important information.
+8. **Paraphrase or summarize** what the speaker has said to confirm that both of you have the same understanding.
 
-Listening is an active process of paying attention, understanding, interpreting, and responding to what another person is communicating.
 
-### Hearing vs Listening
+## Question 2
 
-| Hearing | Listening |
-|----------|-----------|
-| Passive process | Active process |
-| Simply perceiving sound | Understanding the message |
-| Requires no effort | Requires attention and focus |
+### According to Fisher's model, what are the key points of Reflective Listening?
 
-### Types of Listening
+According to Fisher's model, **reflective listening** is the process of carefully listening to a speaker, understanding their message, and confirming that the message has been understood correctly before responding.
 
-- **Active Listening** – Fully concentrating on the speaker.
-- **Empathetic Listening** – Understanding emotions and feelings.
-- **Informational Listening** – Learning new knowledge.
-- **Critical Listening** – Evaluating ideas before making decisions.
+The key points of reflective listening are:
 
-### Active Listening Techniques
+- **Listen carefully** without interrupting or making assumptions.
+- **Understand the speaker's message**, including both facts and emotions.
+- **Reflect or paraphrase** the message in your own words to confirm your understanding.
+- **Ask for clarification** if any part of the message is unclear.
+- **Verify the understanding** by asking the speaker if your interpretation is correct.
+- **Respond only after confirmation**, reducing misunderstandings and improving communication.
 
-- Maintain eye contact.
-- Avoid interrupting.
-- Ask relevant questions.
-- Paraphrase the speaker's message.
-- Observe body language and tone.
-- Provide appropriate feedback.
 
-### Common Listening Barriers
 
-- Distractions
-- Multitasking
-- Prejudging the speaker
-- Emotional reactions
-- Lack of attention
+## Question 3
 
----
+### What are the obstacles in your listening process?
 
-# Assertive Communication
+Some common obstacles that affect my listening process are:
 
-Assertive communication is the ability to express thoughts, opinions, and needs confidently while respecting the rights and feelings of others.
+- **Thinking about my response too early** instead of fully listening to the speaker.
+- **Getting distracted** by my phone, notifications, or surrounding environment.
+- **Losing focus** during long or detailed conversations.
+- **Making assumptions** before asking questions or understanding the complete message.
+- **Focusing on solving the problem immediately** rather than first understanding the speaker's perspective.
+- **Missing important details** when multiple topics or technical points are discussed in a short time.
 
-Being assertive is different from being aggressive. It focuses on honesty, confidence, and mutual respect.
 
-### Characteristics
 
-- Clear and respectful communication
-- Honest expression of opinions
-- Confidence without arrogance
-- Good eye contact
-- Calm tone of voice
-- Ability to say "No" politely
+## Question 4
 
----
+### What can you do to improve your listening?
 
-# Communication Styles
+To improve my listening skills, I will:
 
-| Style | Characteristics |
-|--------|-----------------|
-| Passive | Avoids expressing opinions and needs |
-| Aggressive | Dominates others and ignores their feelings |
-| Passive-Aggressive | Expresses dissatisfaction indirectly |
-| Assertive | Communicates confidently and respectfully |
+- **Give my full attention** to the speaker and avoid distractions.
+- **Avoid interrupting** and let the speaker finish before responding.
+- **Ask clarifying questions** whenever something is unclear.
+- **Take notes** during important meetings or technical discussions to remember key points.
+- **Summarize or paraphrase** the conversation to confirm my understanding.
+- **Pay attention to non-verbal communication**, such as body language, facial expressions, and tone of voice.
+- **Practice patience** and keep an open mind instead of making quick judgments or assumptions.
 
-Assertive communication is generally considered the most effective style because it balances confidence with empathy.
+
+## Question 5
+
+### When do you switch to Passive communication style in your day-to-day life?
+
+I usually become passive when I am talking to seniors, teachers, or someone with more experience than me. Sometimes I hesitate to express my opinion because I don't want to create conflict or disappoint others. There are also times when I agree to help even if I am already busy, simply because I find it difficult to say "No." Later, I realize that ignoring my own needs can make me feel stressed and overwhelmed.
+
 
 ---
 
-# Tips to Become More Assertive
+## Question 6
 
-- Use **"I" statements** instead of blaming others.
-- Speak clearly and confidently.
-- Respect different opinions.
-- Learn to decline requests politely.
-- Stay calm during disagreements.
-- Set healthy personal and professional boundaries.
+### When do you switch into Aggressive communication styles in your day-to-day life?
 
----
+I sometimes become aggressive when I feel frustrated after keeping my feelings to myself for too long. This usually happens when I am under pressure, tired, or when the same problem keeps repeating. Instead of calmly explaining my concerns, I may speak in a louder or harsher tone than I intend. I have realized that this does not solve the problem and can negatively affect relationships.
 
-# Workplace Applications
 
-These skills are valuable in many situations:
-
-- Understanding project requirements
-- Participating in team meetings
-- Conducting code reviews
-- Giving and receiving constructive feedback
-- Resolving workplace conflicts
-- Communicating with clients and stakeholders
-
-For software engineers, effective listening helps clarify requirements, while assertive communication enables clear discussions about ideas, challenges, and solutions.
 
 ---
 
-# Daily Practice
+## Question 7
 
-- Listen without interrupting for an entire conversation.
-- Summarize what another person has said before responding.
-- Practice maintaining eye contact.
-- Replace blaming language with "I" statements.
-- Express one opinion confidently during a meeting or discussion.
-- Reflect on conversations and identify areas for improvement.
+### When do you switch into Passive Aggressive (sarcasm, gossiping, taunts, silent treatment, etc.) communication styles in your day-to-day life?
+
+Sometimes, instead of expressing my feelings directly, I become quiet or avoid the conversation. Occasionally, I may delay replying or use indirect comments when I am upset. This usually happens because I don't want to hurt the other person's feelings or create conflict. However, I have realized that passive-aggressive communication creates confusion and does not help solve the actual problem.
+
 
 ---
 
-# Common Mistakes
+## Question 8
 
-- Interrupting others frequently
-- Assuming instead of asking questions
-- Speaking aggressively or disrespectfully
-- Remaining silent when opinions should be shared
-- Ignoring non-verbal communication
-- Reacting emotionally instead of thoughtfully
+### How can you make your communication assertive?
 
----
+To make my communication more assertive, I will:
 
-# Quick Revision
+- Express my thoughts, feelings, and needs clearly instead of keeping them to myself.
+- Speak confidently while remaining polite and respectful.
+- Use simple statements like **"I need..."**, **"I prefer..."**, or **"I don't feel comfortable with..."** instead of blaming others.
+- Learn to say **"No"** politely when I cannot take on more responsibilities.
+- Listen carefully to others while also respecting my own needs.
+- Stay calm during disagreements and focus on finding a solution that works for everyone.
+- Avoid apologizing for having genuine needs or feelings.
+- Practice balancing my needs with the needs of others, rather than always putting one before the other.
 
-**Active Listening**
-- Pay attention
-- Don't interrupt
-- Ask questions
-- Paraphrase
-- Observe body language
-- Give feedback
-
-**Assertive Communication**
-- Speak confidently
-- Respect others
-- Use "I" statements
-- Stay calm
-- Set boundaries
-- Communicate clearly
-
----
-
-# Key Takeaways
-
-- Listening is more than simply hearing words.
-- Active listening builds trust and reduces misunderstandings.
-- Assertive communication allows you to express yourself confidently without disrespecting others.
-- Good communication strengthens teamwork, leadership, and professional relationships.
-- These skills improve with regular practice and self-awareness.
-
----
-
-# References
-
-1. Julian Treasure – *5 Ways to Listen Better* (TED Talk)  
-   https://www.youtube.com/results?search_query=Julian+Treasure+5+Ways+to+Listen+Better
-
-2. MindTools – Active Listening  
-   https://www.mindtools.com/az4wxv7/active-listening
-
-3. MindTools – Assertiveness  
-   https://www.mindtools.com/aw4w3d1/assertiveness
-
-4. Carnegie, D. *How to Win Friends and Influence People.*
-
-5. Covey, S. R. *The 7 Habits of Highly Effective People.*
