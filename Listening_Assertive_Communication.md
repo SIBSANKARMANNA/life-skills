@@ -1,16 +1,5 @@
 # Listening and Assertive Communication
 
-# Introduction
-
-Communication is one of the most important life skills. It is not only about expressing ideas but also about understanding others. Two essential components of effective communication are **active listening** and **assertive communication**.
-
-- **Listening** helps us understand the speaker's message, emotions, and intentions.
-- **Assertive communication** enables us to express our opinions, needs, and boundaries confidently while respecting others.
-
-Together, these skills improve teamwork, relationships, conflict resolution, and decision-making.
-
----
-
 
 ## Question 1
 
@@ -31,8 +20,6 @@ Based on the video, the following are the key strategies for practicing active l
 ## Question 2
 
 ### According to Fisher's model, what are the key points of Reflective Listening?
-
-According to Fisher's model, **reflective listening** is the process of carefully listening to a speaker, understanding their message, and confirming that the message has been understood correctly before responding.
 
 The key points of reflective listening are:
 
@@ -117,4 +104,13 @@ To make my communication more assertive, I will:
 - Stay calm during disagreements and focus on finding a solution that works for everyone.
 - Avoid apologizing for having genuine needs or feelings.
 - Practice balancing my needs with the needs of others, rather than always putting one before the other.
+
+
+## References
+Youtube-https://www.youtube.com/watch?v=rzsVh8YwZEQ
+https://www.youtube.com/watch?v=mixJEpGTvGw
+https://www.youtube.com/watch?v=SYuboi4GWO4
+
+Wikipedia-https://en.wikipedia.org/wiki/Reflective_listening
+
 
