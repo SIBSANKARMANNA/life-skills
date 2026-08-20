@@ -7,14 +7,14 @@
 
 Based on the video, the following are the key strategies for practicing active listening:
 
-1. **Listen carefully and understand the message** instead of just hearing the words.
-2. **Avoid distractions**, such as thinking about your own response while the other person is speaking.
-3. **Focus completely on the speaker and the topic** being discussed.
-4. **Do not interrupt** the speaker. Let them finish before responding.
-5. **Use door openers**, such as "I understand," "Go on," or "Tell me more," to encourage the speaker to continue.
-6. **Show that you are listening through positive body language**, such as maintaining eye contact, nodding, and having an attentive posture.
-7. **Take notes during important conversations** to remember key points and avoid missing important information.
-8. **Paraphrase or summarize** what the speaker has said to confirm that both of you have the same understanding.
+1. Listen carefully and understand the message instead of just hearing the words.
+2. Avoid distractions, such as thinking about your own response while the other person is speaking.
+3. Focus completely on the speaker and the topic being discussed.
+4. Do not interrupt the speaker. Let them finish before responding.
+5. Use door openers, such as "I understand," "Go on," or "Tell me more," to encourage the speaker to continue.
+6. Show that you are listening through positive body language, such as maintaining eye contact, nodding, and having an attentive posture.
+7. Take notes during important conversations to remember key points and avoid missing important information.
+8. Paraphrase or summarize what the speaker has said to confirm that both of you have the same understanding.
 
 
 ## Question 2
@@ -23,12 +23,12 @@ Based on the video, the following are the key strategies for practicing active l
 
 The key points of reflective listening are:
 
-- **Listen carefully** without interrupting or making assumptions.
-- **Understand the speaker's message**, including both facts and emotions.
-- **Reflect or paraphrase** the message in your own words to confirm your understanding.
-- **Ask for clarification** if any part of the message is unclear.
-- **Verify the understanding** by asking the speaker if your interpretation is correct.
-- **Respond only after confirmation**, reducing misunderstandings and improving communication.
+- Listen carefully without interrupting or making assumptions.
+- Understand the speaker's message, including both facts and emotions.
+- Reflect or paraphrase the message in your own words to confirm your understanding.
+- Ask for clarification if any part of the message is unclear.
+- Verify the understanding by asking the speaker if your interpretation is correct.
+- Respond only after confirmation, reducing misunderstandings and improving communication.
 
 
 
@@ -38,12 +38,12 @@ The key points of reflective listening are:
 
 Some common obstacles that affect my listening process are:
 
-- **Thinking about my response too early** instead of fully listening to the speaker.
-- **Getting distracted** by my phone, notifications, or surrounding environment.
-- **Losing focus** during long or detailed conversations.
-- **Making assumptions** before asking questions or understanding the complete message.
-- **Focusing on solving the problem immediately** rather than first understanding the speaker's perspective.
-- **Missing important details** when multiple topics or technical points are discussed in a short time.
+- Thinking about my response too early instead of fully listening to the speaker.
+- Getting distracted by my phone, notifications, or surrounding environment.
+- Losing focus during long or detailed conversations.
+- Making assumptions before asking questions or understanding the complete message.
+- Focusing on solving the problem immediately rather than first understanding the speaker's perspective.
+- Missing important details when multiple topics or technical points are discussed in a short time.
 
 
 
@@ -53,13 +53,13 @@ Some common obstacles that affect my listening process are:
 
 To improve my listening skills, I will:
 
-- **Give my full attention** to the speaker and avoid distractions.
-- **Avoid interrupting** and let the speaker finish before responding.
-- **Ask clarifying questions** whenever something is unclear.
-- **Take notes** during important meetings or technical discussions to remember key points.
-- **Summarize or paraphrase** the conversation to confirm my understanding.
-- **Pay attention to non-verbal communication**, such as body language, facial expressions, and tone of voice.
-- **Practice patience** and keep an open mind instead of making quick judgments or assumptions.
+- Give my full attention to the speaker and avoid distractions.
+- Avoid interrupting and let the speaker finish before responding.
+- Ask clarifying questions whenever something is unclear.
+- Take notes during important meetings or technical discussions to remember key points.
+- Summarize or paraphrase the conversation to confirm my understanding.
+- Pay attention to non-verbal communication, such as body language, facial expressions, and tone of voice.
+- Practice patience and keep an open mind instead of making quick judgments or assumptions.
 
 
 ## Question 5
@@ -98,8 +98,8 @@ To make my communication more assertive, I will:
 
 - Express my thoughts, feelings, and needs clearly instead of keeping them to myself.
 - Speak confidently while remaining polite and respectful.
-- Use simple statements like **"I need..."**, **"I prefer..."**, or **"I don't feel comfortable with..."** instead of blaming others.
-- Learn to say **"No"** politely when I cannot take on more responsibilities.
+- Use simple statements like "I need...", "I prefer...", or "I don't feel comfortable with..." instead of blaming others.
+- Learn to say "No" politely when I cannot take on more responsibilities.
 - Listen carefully to others while also respecting my own needs.
 - Stay calm during disagreements and focus on finding a solution that works for everyone.
 - Avoid apologizing for having genuine needs or feelings.
